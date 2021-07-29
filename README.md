@@ -6,11 +6,11 @@ Watch my *[Demo videos!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 *[Breakout Game]()
-* animation & game design
+  * animation & game design
 * [MyPhotoshop]()
-* image processing
+  * image processing
 * [baby_names]()
-* data structure
+  * data structure
 * [Boggle game solver]()
-* recursive funtions
-* 
+  * recursive funtions
+
