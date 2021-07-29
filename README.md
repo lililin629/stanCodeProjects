@@ -6,7 +6,7 @@ Watch my *[Demo videos!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 
-*[Breakout Game](https://github.com/lililin629/stanCodeProjects/blob/1be7c521b8123b253bbf8169445bb5a851846c95/stanCodeProjects/breakout/breakout.py)
+* [Breakout Game](https://github.com/lililin629/stanCodeProjects/blob/1be7c521b8123b253bbf8169445bb5a851846c95/stanCodeProjects/breakout/breakout.py)
   * animation & game design
 * [MyPhotoshop](https://github.com/lililin629/stanCodeProjects/blob/1be7c521b8123b253bbf8169445bb5a851846c95/stanCodeProjects/MyPhotoshop/stanCodoshop.py)
   * image processing
