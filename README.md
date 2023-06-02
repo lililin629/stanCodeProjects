@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my python programming projects.
 
-Watch my [Demo videos!](https://drive.google.com/file/d/1G_TsyEjsUgjJ2X2X3GMTW1yHOi8e27D2/view?usp=drive_link)
+Watch my [Demo videos!](https://drive.google.com/drive/folders/1vw4CEpGPf_w0puowfTiHv8tmQDhj-fko?usp=sharing)
 
 ## Project Source Codes:
 
